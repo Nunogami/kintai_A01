@@ -13,3 +13,5 @@ $ git config --global user.name "Nunogami"
 $ git config --global user.email nuno3434@yahoo.co.jp
 
 【勤怠2章】
+【勤怠3章】ページのレイアウトを整えよう
+<%= render 'layouts/shim' %>
