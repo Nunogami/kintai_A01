@@ -16,3 +16,4 @@ $ git config --global user.email nuno3434@yahoo.co.jp
 【勤怠3章】ページのレイアウトを整えよう
 <%= render 'layouts/shim' %>
 【勤怠4章】モデルについて学ぼう
+【勤怠5章】ユーザー登録機能を作ろう
